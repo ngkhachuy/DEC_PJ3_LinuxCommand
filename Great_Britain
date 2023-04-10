@@ -1,0 +1,173 @@
+10:Aberdeen,GB,Grampian,219100,NULL,NULL
+11:Aberystwyth,GB,Ceredigion,NULL,NULL,NULL
+181:Aylesbury,GB,Buckinghamshire,151600,NULL,NULL
+232:Barnsley,GB,"South Yorkshire",226500,NULL,NULL
+240:Barry,GB,"Vale of Glamorgan",NULL,NULL,NULL
+244:Basildon,GB,Essex,161700,NULL,NULL
+245:Basingstoke,GB,Hampshire,146500,NULL,NULL
+256:Bedford,GB,Bedfordshire,137300,NULL,NULL
+267:Belfast,GB,"Northern Ireland",297100,-5.91667,54.6
+294:Beverley,GB,Humberside,115800,NULL,NULL
+314:Birmingham,GB,"West Midlands",1008400,-1.93333,52.4833
+323:Blackburn,GB,Lancashire,139500,NULL,NULL
+324:Blackpool,GB,Lancashire,153600,NULL,NULL
+342:Bolton,GB,"Greater Manchester",265200,NULL,NULL
+355:Bournemouth,GB,Dorset,159900,NULL,NULL
+356:Bracknell,GB,Berkshire,101900,NULL,NULL
+357:Bradford,GB,"West Yorkshire",481700,NULL,NULL
+362:Braintree,GB,Essex,121800,NULL,NULL
+376:Bridgend,GB,Bridgend,NULL,NULL,NULL
+379:Brighton,GB,"East Sussex",154400,NULL,NULL
+381:Bristol,GB,Avon,399200,NULL,NULL
+406:Bury,GB,"Greater Manchester",181400,NULL,NULL
+418:Caernarfon,GB,Gwynedd,NULL,NULL,NULL
+433:Cambridge,GB,Cambridgeshire,113800,NULL,NULL
+446:Canterbury,GB,Kent,132400,NULL,NULL
+451:Cardiff,GB,Cardiff,300000,-3.16667,51.4667
+454:Carlisle,GB,Cumbria,102900,NULL,NULL
+455:Carmarthen,GB,Carmarthenshire,NULL,NULL,NULL
+507:Chelmsford,GB,Essex,155700,NULL,NULL
+508:Cheltenham,GB,Gloucestershire,106700,NULL,NULL
+519:Chester,GB,Cheshire,120800,NULL,NULL
+520:Chesterfield,GB,Derbyshire,101200,NULL,NULL
+527:Chichester,GB,"West Sussex",102500,NULL,NULL
+583:Colchester,GB,Essex,149100,NULL,NULL
+592:"Colwyn Bay",GB,"Aberconwy and Colwyn",NULL,NULL,NULL
+616:Coventry,GB,"West Midlands",302500,NULL,NULL
+618:Crewe,GB,Cheshire,109500,NULL,NULL
+629:Cwmbran,GB,Monmouthshire,NULL,NULL,NULL
+645:Darlington,GB,Durham,100200,NULL,NULL
+662:Derby,GB,Derbyshire,230500,NULL,NULL
+687:Doncaster,GB,"South Yorkshire",292500,NULL,NULL
+693:Dorchester,GB,Dorset,NULL,NULL,NULL
+699:Dover,GB,Kent,106100,NULL,NULL
+706:Dudley,GB,"West Midlands",312200,NULL,NULL
+709:Dumfries,GB,"Dumfries and Galloway",NULL,NULL,NULL
+711:Dundee,GB,Tayside,167600,NULL,NULL
+717:Durham,GB,Durham,NULL,NULL,NULL
+727:Eastleigh,GB,Hampshire,109600,NULL,NULL
+728:"Ebbw Vale",GB,"Blaenau Gwent",NULL,NULL,NULL
+732:Edinburgh,GB,Lothian,447600,-3.18333,55.9167
+764:Elmbridge,GB,Surrey,117300,NULL,NULL
+773:"Epping Forest",GB,Essex,118200,NULL,NULL
+789:Exeter,GB,Devon,105100,NULL,NULL
+791:Fareham,GB,Hampshire,101000,NULL,NULL
+857:Gateshead,GB,"Tyne and Wear",202400,NULL,NULL
+884:Glasgow,GB,Strathclyde,674800,-4.28333,55.8667
+888:Glenrothes,GB,Fife,NULL,NULL,NULL
+890:Gloucester,GB,Gloucestershire,104800,NULL,NULL
+892:Glouchester,GB,Gloucestershire,NULL,NULL,NULL
+936:Guildford,GB,Surrey,126200,NULL,NULL
+984:Harrogate,GB,"North Yorkshire",146500,NULL,NULL
+988:Havant,GB,Hampshire,117500,NULL,NULL
+989:Haverfordwest,GB,Pembrokeshire,NULL,NULL,NULL
+1010:Hertford,GB,Hertfordshire,NULL,NULL,NULL
+1029:Horsham,GB,"West Sussex",112300,NULL,NULL
+1052:Huddersfield,GB,"West Yorkshire",148500,NULL,NULL
+1057:Hull,GB,Humberside,NULL,NULL,NULL
+1059:Huntingdon,GB,Cambridgeshire,148800,NULL,NULL
+1098:Inverness,GB,Highland,NULL,NULL,NULL
+1101:Ipswich,GB,Suffolk,114800,NULL,NULL
+1113:"Island Areas",GB,"Island Areas (munic.)",NULL,NULL,NULL
+1299:"Kings Lynn",GB,Norfolk,131600,NULL,NULL
+1301:Kingston,GB,Surrey,NULL,NULL,NULL
+1303:"Kingston upon Hull",GB,Humberside,269100,NULL,NULL
+1308:Kirklees,GB,"West Yorkshire",386900,NULL,NULL
+1323:Knowsley,GB,Merseyside,155300,NULL,NULL
+1409:Lancaster,GB,Lancashire,133600,NULL,NULL
+1429:Leeds,GB,"West Yorkshire",724400,NULL,NULL
+1433:Leicester,GB,Leicestershire,293400,NULL,NULL
+1434:Leichester,GB,Leicestershire,NULL,NULL,NULL
+1450:Lewes,GB,"East Sussex",NULL,NULL,NULL
+1473:Lincoln,GB,Lincolnshire,NULL,NULL,NULL
+1488:Liverpool,GB,Merseyside,474000,NULL,NULL
+1494:"Llandrindod Wells",GB,Powys,NULL,NULL,NULL
+1495:Llangefni,GB,Anglesey,NULL,NULL,NULL
+1504:London,GB,"Greater London",6967500,0,51.4833
+1537:Luton,GB,Bedfordshire,178600,NULL,NULL
+1551:Macclesfield,GB,Cheshire,151400,NULL,NULL
+1567:Maidstone,GB,Kent,138500,NULL,NULL
+1593:Manchester,GB,"Greater Manchester",431100,NULL,NULL
+1603:Mansfield,GB,Nottinghamshire,102100,NULL,NULL
+1637:Matlock,GB,Derbyshire,NULL,NULL,NULL
+1667:"Merthyr Tydfil",GB,"Merthyr Tydfil",NULL,NULL,NULL
+1682:Middlesbrough,GB,Cleveland,145800,NULL,NULL
+1686:"Milton Keynes",GB,Buckinghamshire,184400,NULL,NULL
+1711:Mold,GB,Flintshire,NULL,NULL,NULL
+1842:"Newark on Trent",GB,Nottinghamshire,104400,NULL,NULL
+1843:Newbury,GB,Berkshire,141000,NULL,NULL
+1845:Newcastle,GB,"Tyne and Wear",NULL,NULL,NULL
+1846:"Newcastle under Lyme",GB,Staffordshire,123000,NULL,NULL
+1847:"Newcastle upon Tyne",GB,"Tyne and Wear",283600,NULL,NULL
+1848:Newport,GB,Newport,137000,NULL,NULL
+1850:"Newtown St. Boswells",GB,Borders,NULL,NULL,NULL
+1876:Northallerton,GB,"North Yorkshire",NULL,NULL,NULL
+1877:Northampton,GB,Northamptonshire,187200,NULL,NULL
+1879:Norwich,GB,Norfolk,128100,NULL,NULL
+1880:Nottingham,GB,Nottinghamshire,282400,NULL,NULL
+1903:Nuneaton,GB,Warwickshire,118500,NULL,NULL
+1929:Oldham,GB,"Greater Manchester",220400,NULL,NULL
+1976:Oxford,GB,Oxfordshire,132000,NULL,NULL
+2040:Peterborough,GB,Cambridgeshire,156400,NULL,NULL
+2072:Plymouth,GB,Devon,255800,NULL,NULL
+2082:Pontypool,GB,Torfaen,NULL,NULL,NULL
+2083:Poole,GB,Dorset,137200,NULL,NULL
+2093:"Port Talbot",GB,"Neath and Port Talbot",NULL,NULL,NULL
+2102:Portsmouth,GB,Hampshire,189100,NULL,NULL
+2114:Preston,GB,Lancashire,132200,NULL,NULL
+2186:Reading,GB,Berkshire,137700,NULL,NULL
+2193:Reigate,GB,Surrey,118800,NULL,NULL
+2196:Renfrew,GB,Strathclyde,201700,NULL,NULL
+2205:Rhondda,GB,"Rhondda Cynon Taff",NULL,NULL,NULL
+2206:"Rhymney Valley",GB,"Vale of Glamorgan",104300,NULL,NULL
+2228:Rochdale,GB,"Greater Manchester",207100,NULL,NULL
+2230:"Rochester upon Medway",GB,Kent,148200,NULL,NULL
+2240:Rotherham,GB,"South Yorkshire",256300,NULL,NULL
+2248:Ruthin,GB,Denbighshire,NULL,NULL,NULL
+2268:"Saint Albans",GB,Hertfordshire,127700,NULL,NULL
+2272:"Saint Helens",GB,Merseyside,180200,NULL,NULL
+2283:Salford,GB,"Greater Manchester",230700,NULL,NULL
+2286:Salisbury,GB,Wiltshire,109800,NULL,NULL
+2397:Scarborough,GB,"North Yorkshire",108700,NULL,NULL
+2403:Sefton,GB,Merseyside,292400,NULL,NULL
+2419:Sevenoaks,GB,Kent,109400,NULL,NULL
+2440:Sheffield,GB,"South Yorkshire",530100,NULL,NULL
+2458:Shrewsbury,GB,Shropshire,NULL,NULL,NULL
+2497:Slough,GB,Berkshire,103500,NULL,NULL
+2507:Solihull,GB,"West Midlands",202000,NULL,NULL
+2521:Southampton,GB,Hampshire,211700,NULL,NULL
+2522:"Southend on Sea",GB,Essex,167500,NULL,NULL
+2535:Stafford,GB,Staffordshire,121500,NULL,NULL
+2544:Stirling,GB,Central,NULL,NULL,NULL
+2546:Stockport,GB,"Greater Manchester",291400,NULL,NULL
+2548:"Stockton on Tees",GB,Cleveland,177800,NULL,NULL
+2549:"Stoke on Trent",GB,Staffordshire,254200,NULL,NULL
+2551:"Stratford on Avon",GB,Warwickshire,108600,NULL,NULL
+2552:Stroud,GB,Gloucestershire,105400,NULL,NULL
+2565:Sunderland,GB,"Tyne and Wear",292200,NULL,NULL
+2573:"Sutton in Ashfield",GB,Derbyshire,109800,NULL,NULL
+2581:Swale,GB,Kent,117200,NULL,NULL
+2582:Swansea,GB,Swansea,189300,NULL,NULL
+2620:Tameside,GB,"Greater Manchester",221800,NULL,NULL
+2644:Taunton,GB,Somerset,NULL,NULL,NULL
+2709:Tonbridge,GB,Kent,102100,NULL,NULL
+2729:Trafford,GB,"Greater Manchester",218100,NULL,NULL
+2737:Trowbridge,GB,Wiltshire,NULL,NULL,NULL
+2741:Truro,GB,"Cornwall / Isles of Scilly",NULL,NULL,NULL
+2752:"Tunbridge Wells",GB,Kent,101800,NULL,NULL
+2870:Wakefield,GB,"West Yorkshire",317300,NULL,NULL
+2873:Walsall,GB,"West Midlands",263900,NULL,NULL
+2877:Warrington,GB,Cheshire,185000,NULL,NULL
+2879:Warwick,GB,Warwickshire,118600,NULL,NULL
+2889:"West Bromwich",GB,"West Midlands",154500,NULL,NULL
+2896:Wigan,GB,"Greater Manchester",310000,NULL,NULL
+2897:Winchester,GB,Hampshire,100500,NULL,NULL
+2900:Windsor,GB,Berkshire,136700,NULL,NULL
+2904:Wiral,GB,Merseyside,331100,NULL,NULL
+2908:Wokingham,GB,Berkshire,142900,NULL,NULL
+2911:Wolverhampton,GB,"West Midlands",245100,NULL,NULL
+2913:Worcester,GB,"Hereford and Worcester",NULL,NULL,NULL
+2915:Wrexham,GB,Wrexham,NULL,NULL,NULL
+2925:Wycombe,GB,Buckinghamshire,161400,NULL,NULL
+2986:York,GB,"North Yorkshire",104000,NULL,NULL
+2991:"Ystrad Fawr",GB,Caerphilly,NULL,NULL,NULL
